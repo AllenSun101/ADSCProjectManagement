@@ -1,6 +1,7 @@
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Note: Try to use npm as package manager for consistency. 
 
 ### Installation
 
@@ -15,7 +16,7 @@ $ yarn
 $ yarn start
 ```
 ```
-$ npm start
+$ npm run start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
