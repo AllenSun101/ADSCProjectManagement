@@ -7,11 +7,15 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 ```
 $ yarn
 ```
+(probably also npm version)
 
 ### Local Development
 
 ```
 $ yarn start
+```
+```
+$ npm start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
